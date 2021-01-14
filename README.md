@@ -4,11 +4,38 @@ Final project in the course DD2424 Deep Learning for Data Science at KTH Royal I
 
 ## Team Members
 
-<ol>
+<ul>
     <li>
-        <strong>Maximilian Auer</strong> - <i>maue@kth.se</i>
-    </li> 
+        <strong>Maximilian Auer</strong> - <i style="text-decoration: none;">maue@kth.se</i>
+    </li>
     <li>
-        <strong>Lukas Frösslund</strong> - <i>lukasfro@kth.se</i>
-    </li> 
-</ol>
+        <strong>Kristin Evegård</strong> - <i style="text-decoration: none;">evegard@kth.se</i>
+    </li>  
+    <li>
+        <strong>Lukas Frösslund</strong> - <i style="text-decoration: none;">lukasfro@kth.se</i>
+    </li>
+    <li>
+        <strong>Valdemar Gezelius</strong> - <i style="text-decoration: none;">vgez@kth.se</i>
+    </li>  
+</ul>
+
+## Technologies
+
+-   [Python 3](https://www.python.org/)
+-   [TensorFlow 2](https://www.tensorflow.org/)
+-   [Keras](https://keras.io/)
+-   [Scikit-learn](https://sklearn.org/)
+
+## Project Details
+
+Basic augmentation methods such as flips, rotations, shifts, scaling and zooms were used and compared, along with slighly more complex elastic deformations. Dropout layers and Batch Normalization were utilized and thoroughly contrasted.
+
+Binary cross-entropy loss, Weighted binary cross-entropy loss and Dice loss were all implemented. Binary cross-entropy loss showed the most promise. Dice score, Sensitivity and Specificity was used as our main evaluation metrics.
+
+Results were encouraging, with a Dice score of ~ 0.886.
+
+More details available in <a href="#">project report</a>
+
+## Qualitative Results
+
+![qual_comparison]('#')
