@@ -38,4 +38,4 @@ More details available in <a href="https://github.com/Frosslund/U-Net-CNN-COVID-
 
 ## Qualitative Results
 
-![qual_comparison]('https://github.com/Frosslund/U-Net-CNN-COVID-19-Detection-on-Thoracic-CT-Scans/blob/main/images/qual_comparison.png?raw=true')
+![qual_comparison](https://github.com/Frosslund/U-Net-CNN-COVID-19-Detection-on-Thoracic-CT-Scans/blob/main/images/qual_comparison.png?raw=true)
