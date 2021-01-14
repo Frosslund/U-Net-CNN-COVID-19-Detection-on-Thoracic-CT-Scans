@@ -34,8 +34,8 @@ Binary cross-entropy loss, Weighted binary cross-entropy loss and Dice loss were
 
 Results were encouraging, with a Dice score of ~ 0.886.
 
-More details available in <a href="#">project report</a>
+More details available in <a href="https://github.com/Frosslund/U-Net-CNN-COVID-19-Detection-on-Thoracic-CT-Scans/blob/main/Project_Report.pdf">project report</a>
 
 ## Qualitative Results
 
-![qual_comparison]('#')
+![qual_comparison]('https://github.com/Frosslund/U-Net-CNN-COVID-19-Detection-on-Thoracic-CT-Scans/blob/main/images/qual_comparison.png?raw=true')
